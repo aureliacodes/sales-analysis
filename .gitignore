@@ -1,0 +1,13 @@
+
+__pycache__/
+
+*.pyc
+
+
+*.db
+
+*.log
+
+.vscode/
+.idea/
+.ipynb_chekpoints/
